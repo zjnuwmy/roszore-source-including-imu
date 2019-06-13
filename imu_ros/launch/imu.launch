@@ -1,0 +1,4 @@
+<launch>
+<node pkg="imu_ros" type="imu_node.py" name="imu" />
+
+</launch>
